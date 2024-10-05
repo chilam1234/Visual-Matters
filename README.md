@@ -1,2 +1,3 @@
 # Visual-Matters
-Visual Matters
+
+Visual Matters, Built with NextJS
